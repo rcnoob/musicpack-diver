@@ -1,0 +1,10 @@
+{
+  "name": "Dave the Diver — Diver",
+  "description": "The track Diver from Dave the Diver",
+  "author": "rcnoob",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
